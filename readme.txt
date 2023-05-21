@@ -1,2 +1,2 @@
-java -jar svg2fxml.jar https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg Flag_of_Europe.fxml
+java -jar svg2fxml.jar https://raw.githubusercontent.com/mySkillsKit/convertSvgToFxml/92caf421b6c61577d941235190916acbb0911cb3/Flag_of_Europe.svg Flag_of_Europe.fxml
 java -jar svg2fxml.jar Flag_of_Europe.svg primer.fxml
